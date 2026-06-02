@@ -1,0 +1,4 @@
+Model,Accuracy,Acc (±1),F1-Score,QWK,MAE,Params (M),Inference (ms/img)
+Resnet50,0.3500,0.7333,0.3467,0.8603,1.0778,23.53,7.60
+Mobilenetv2,0.3389,0.6833,0.3116,0.8155,1.2722,2.24,2.63
+Freshlitenet,0.4167,0.8611,0.4203,0.9160,0.7833,3.85,2.99
